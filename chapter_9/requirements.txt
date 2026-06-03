@@ -1,0 +1,9 @@
+# requirements.txt 
+numpy==1.21.4  
+scikit-learn==1.4.2  
+# Sentence-Transformers for retrieval  
+sentence-transformers==2.7.0  
+# Hugging Face Transformers for generation  
+transformers==4.40.1  
+# Deep learning framework (backend)  
+torch==2.2.2  

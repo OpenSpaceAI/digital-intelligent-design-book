@@ -31,7 +31,7 @@
 
 推荐您的数据集目录结构如下组织：
 ```text
-chapter_7/
+chapter_07/
 ├── chapter_7.py
 └── data/
     └── helodrys_nebula_images/
